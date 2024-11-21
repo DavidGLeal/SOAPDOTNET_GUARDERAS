@@ -1,0 +1,7 @@
+Para que los clientes puedan consumir el servicio de forma exitosa (la aplicación móvil, específicamente), el servicio
+debe publicarse dentro del IIS.
+
+Gracias por la atención.
+
+Atentamente,
+David Guarderas Leal
