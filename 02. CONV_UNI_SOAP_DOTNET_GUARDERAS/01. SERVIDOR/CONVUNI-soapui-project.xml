@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="d759c6c7-5ea1-41c1-a49a-b6251beb1d15" activeEnvironment="Default" name="CONVUNI" soapui-version="5.7.2" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" id="35e29588-ea17-4aa4-b186-3e2af2460761" wsaVersion="NONE" name="BasicHttpBinding_ICONVUNI" type="wsdl" bindingName="{http://tempuri.org/}BasicHttpBinding_ICONVUNI" soapVersion="1_1" anonymous="optional" definition="http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?wsdl"><con:part><con:url>http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="CONVUNI" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?xsd=xsd0" namespace="http://tempuri.org/"/>
+      <xsd:import schemaLocation="http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/"/>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ICONVUNI_convertCF_InputMessage">
+    <wsdl:part name="parameters" element="tns:convertCF"/>
+  </wsdl:message>
+  <wsdl:message name="ICONVUNI_convertCF_OutputMessage">
+    <wsdl:part name="parameters" element="tns:convertCFResponse"/>
+  </wsdl:message>
+  <wsdl:message name="ICONVUNI_convertFC_InputMessage">
+    <wsdl:part name="parameters" element="tns:convertFC"/>
+  </wsdl:message>
+  <wsdl:message name="ICONVUNI_convertFC_OutputMessage">
+    <wsdl:part name="parameters" element="tns:convertFCResponse"/>
+  </wsdl:message>
+  <wsdl:portType name="ICONVUNI">
+    <wsdl:operation name="convertCF">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICONVUNI/convertCF" message="tns:ICONVUNI_convertCF_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/ICONVUNI/convertCFResponse" message="tns:ICONVUNI_convertCF_OutputMessage"/>
+    </wsdl:operation>
+    <wsdl:operation name="convertFC">
+      <wsdl:input wsaw:Action="http://tempuri.org/ICONVUNI/convertFC" message="tns:ICONVUNI_convertFC_InputMessage"/>
+      <wsdl:output wsaw:Action="http://tempuri.org/ICONVUNI/convertFCResponse" message="tns:ICONVUNI_convertFC_OutputMessage"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ICONVUNI" type="tns:ICONVUNI">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="convertCF">
+      <soap:operation soapAction="http://tempuri.org/ICONVUNI/convertCF" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="convertFC">
+      <soap:operation soapAction="http://tempuri.org/ICONVUNI/convertFC" style="document"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CONVUNI">
+    <wsdl:port name="BasicHttpBinding_ICONVUNI" binding="tns:BasicHttpBinding_ICONVUNI">
+      <soap:address location="http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part><con:part><con:url>http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?xsd=xsd0</con:url><con:content><![CDATA[<xs:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://tempuri.org/">
+  <xs:element name="convertCF">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="c" type="xs:double"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="convertCFResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="convertCFResult" type="xs:double"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="convertFC">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="f" type="xs:double"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="convertFCResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="convertFCResult" type="xs:double"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part><con:part><con:url>http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc?xsd=xsd1</con:url><con:content><![CDATA[<xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/2003/10/Serialization/" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://schemas.microsoft.com/2003/10/Serialization/">
+  <xs:element name="anyType" nillable="true" type="xs:anyType"/>
+  <xs:element name="anyURI" nillable="true" type="xs:anyURI"/>
+  <xs:element name="base64Binary" nillable="true" type="xs:base64Binary"/>
+  <xs:element name="boolean" nillable="true" type="xs:boolean"/>
+  <xs:element name="byte" nillable="true" type="xs:byte"/>
+  <xs:element name="dateTime" nillable="true" type="xs:dateTime"/>
+  <xs:element name="decimal" nillable="true" type="xs:decimal"/>
+  <xs:element name="double" nillable="true" type="xs:double"/>
+  <xs:element name="float" nillable="true" type="xs:float"/>
+  <xs:element name="int" nillable="true" type="xs:int"/>
+  <xs:element name="long" nillable="true" type="xs:long"/>
+  <xs:element name="QName" nillable="true" type="xs:QName"/>
+  <xs:element name="short" nillable="true" type="xs:short"/>
+  <xs:element name="string" nillable="true" type="xs:string"/>
+  <xs:element name="unsignedByte" nillable="true" type="xs:unsignedByte"/>
+  <xs:element name="unsignedInt" nillable="true" type="xs:unsignedInt"/>
+  <xs:element name="unsignedLong" nillable="true" type="xs:unsignedLong"/>
+  <xs:element name="unsignedShort" nillable="true" type="xs:unsignedShort"/>
+  <xs:element name="char" nillable="true" type="tns:char"/>
+  <xs:simpleType name="char">
+    <xs:restriction base="xs:int"/>
+  </xs:simpleType>
+  <xs:element name="duration" nillable="true" type="tns:duration"/>
+  <xs:simpleType name="duration">
+    <xs:restriction base="xs:duration">
+      <xs:pattern value="\-?P(\d*D)?(T(\d*H)?(\d*M)?(\d*(\.\d*)?S)?)?"/>
+      <xs:minInclusive value="-P10675199DT2H48M5.4775808S"/>
+      <xs:maxInclusive value="P10675199DT2H48M5.4775807S"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="guid" nillable="true" type="tns:guid"/>
+  <xs:simpleType name="guid">
+    <xs:restriction base="xs:string">
+      <xs:pattern value="[\da-fA-F]{8}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{4}-[\da-fA-F]{12}"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:attribute name="FactoryType" type="xs:QName"/>
+  <xs:attribute name="Id" type="xs:ID"/>
+  <xs:attribute name="Ref" type="xs:IDREF"/>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc</con:endpoint></con:endpoints><con:operation id="cd47e785-5572-4d97-9145-c81c11b60438" isOneWay="false" action="http://tempuri.org/ICONVUNI/convertCF" name="convertCF" bindingOperationName="convertCF" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="036b08ac-6c4b-4c1f-8471-241a9e4eb2bf" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://192.168.100.22:59809/ec.edu.monster.ws/CONVUNI.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:convertCF>\r
+         <!--Optional:-->\r
+         <tem:c>0</tem:c>\r
+      </tem:convertCF>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/ICONVUNI/convertCF"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="6c943d81-615d-4dc9-ab1b-755318036708" isOneWay="false" action="http://tempuri.org/ICONVUNI/convertFC" name="convertFC" bindingOperationName="convertFC" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="87564924-a970-497b-9aea-0cc9e8fe434e" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://localhost:59809/ec.edu.monster.ws/CONVUNI.svc</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <tem:convertFC>\r
+         <!--Optional:-->\r
+         <tem:f>?</tem:f>\r
+      </tem:convertFC>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://tempuri.org/ICONVUNI/convertFC"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/></con:soapui-project>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <title>Conversión de Unidades (C ↔ F)</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="static/estilo.css">
+        <script src="{{ url_for('static', filename='manager.js') }}"></script>
+        <script src="{{ url_for('static', filename='login.js') }}"></script>
+    </head>
+    <body>
+        <header>
+            <h1>Conversión de Unidades</h1>
+            <h2>Celsius a Farenheit</h2>
+        </header>
+        <hr>
+        <div>
+            <div>
+                <h2 class="tit">Convertir °C a °F</h2>
+                <div class="operacion">
+                    <input type="number" id="cIn" class="inputC"/>
+                    <p>°C</p>
+                    <button class="botonOperar" onclick="convertCF()">Convertir</button>
+                    <input type="number" id="fOut" class="inputF output" disabled/>
+                    <p>°F</p>
+                </div>
+            </div>
+            <hr>
+            <div>
+                <h2 class="tit">Convertir °F a °C</h2>
+                <div class="operacion">
+                    <input type="number" id="fIn" class="inputF"/>
+                    <p>°F</p>
+                    <button class="botonOperar" onclick="convertFC()">Convertir</button>
+                    <input type="number" id="cOut" class="inputC output" disabled/>
+                    <p>°C</p>
+                </div>
+            </div>
+        </div>
+        <button id="cerrar" onclick="logOut()">Cerrar sesión</button>
+    </body>
+</html>

@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLICON\\CLICON\\CLICON\\CLICON.csproj": {}
+  },
+  "projects": {
+    "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLICON\\CLICON\\CLICON\\CLICON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLICON\\CLICON\\CLICON\\CLICON.csproj",
+        "projectName": "CLICON",
+        "projectPath": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLICON\\CLICON\\CLICON\\CLICON.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLICON\\CLICON\\CLICON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Federation": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[6.0.*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

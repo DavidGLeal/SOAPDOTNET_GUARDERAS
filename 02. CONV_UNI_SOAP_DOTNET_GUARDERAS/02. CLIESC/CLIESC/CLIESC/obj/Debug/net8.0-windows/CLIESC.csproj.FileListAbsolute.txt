@@ -1,0 +1,224 @@
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.exe
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.deps.json
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.runtimeconfig.json
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.pdb
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetFramingBase.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetNamedPipe.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetNamedPipe.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.AssemblyReference.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.GenerateResource.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.AssemblyInfoInputs.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.AssemblyInfo.cs
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.CoreCompileInputs.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.Up2Date
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\refint\CLIESC.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.pdb
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.genruntimeconfig.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\ref\CLIESC.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.Properties.Resources.resources
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.ec.edu.monster.vista.CliEsc.resources
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.ec.edu.monster.vista.LogIn.resources
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.AssemblyReference.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.ec.edu.monster.vista.CliEsc.resources
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.ec.edu.monster.vista.LogIn.resources
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.Properties.Resources.resources
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.GenerateResource.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.AssemblyInfoInputs.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.AssemblyInfo.cs
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.CoreCompileInputs.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\refint\CLIESC.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.pdb
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.exe
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.deps.json
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.runtimeconfig.json
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\CLIESC.pdb
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Xml.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Federation.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Http.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetFramingBase.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetNamedPipe.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.NetTcp.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetNamedPipe.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.csproj.Up2Date
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\CLIESC.genruntimeconfig.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLIESC\CLIESC\CLIESC\obj\Debug\net8.0-windows\ref\CLIESC.dll

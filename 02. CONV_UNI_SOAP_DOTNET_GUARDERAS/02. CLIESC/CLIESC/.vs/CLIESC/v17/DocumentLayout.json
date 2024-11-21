@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\cliesc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\cliesc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.prueba\\prueba01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.prueba\\prueba01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.modelo\\convunimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.modelo\\convunimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.controlador\\convunicontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.controlador\\convunicontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.controlador\\logincontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.controlador\\logincontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.vista\\cliesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\cliesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.vista\\cliesc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\cliesc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.vista\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\02. cliesc\\cliesc\\cliesc\\ec.edu.monster.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\cliesc\\ec.edu.monster.vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\cliesc\\ec.edu.monster.vista\\cliesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2A62AA96-5657-4726-BA5B-28E17CF8494B}|CLIESC\\CLIESC.csproj|solutionrelative:cliesc\\ec.edu.monster.vista\\cliesc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CLIESC",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\CLIESC.csproj",
+              "RelativeDocumentMoniker": "CLIESC\\CLIESC.csproj",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\CLIESC.csproj",
+              "RelativeToolTip": "CLIESC\\CLIESC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T13:31:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prueba01.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.prueba\\Prueba01.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.prueba\\Prueba01.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.prueba\\Prueba01.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.prueba\\Prueba01.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T04:26:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CliEsc.Designer.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.Designer.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\CliEsc.Designer.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.Designer.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.vista\\CliEsc.Designer.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAHAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:42:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\Program.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\Program.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\Program.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.vista\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:18:40.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogIn.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:53:43.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogIn.Designer.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.Designer.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\LogIn.Designer.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.Designer.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.vista\\LogIn.Designer.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAA9wHUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:53:31.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CliEsc.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwD8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:41:46.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CliEsc.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\CliEsc.cs",
+              "ToolTip": "E:\\USER\\Documents\\ESPE\\Octavo Semestre\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\USER\\Documents\\ESPE\\Octavo Semestre\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\CliEsc.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:37:38.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginControlador.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.controlador\\LoginControlador.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.controlador\\LoginControlador.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.controlador\\LoginControlador.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.controlador\\LoginControlador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:26:47.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvUniControlador.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.controlador\\ConvUniControlador.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.controlador\\ConvUniControlador.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.controlador\\ConvUniControlador.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.controlador\\ConvUniControlador.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:26:45.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConvUniModelo.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.modelo\\ConvUniModelo.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.modelo\\ConvUniModelo.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.modelo\\ConvUniModelo.cs",
+              "RelativeToolTip": "CLIESC\\ec.edu.monster.modelo\\ConvUniModelo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:24:46.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LogIn.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "RelativeDocumentMoniker": "CLIESC\\ec.edu.monster.vista\\LogIn.cs",
+              "ToolTip": "E:\\USER\\Documents\\ESPE\\Octavo Semestre\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\USER\\Documents\\ESPE\\Octavo Semestre\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\02. CLIESC\\CLIESC\\CLIESC\\ec.edu.monster.vista\\LogIn.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T08:22:35.825Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.exe
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.deps.json
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.runtimeconfig.json
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.pdb
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.GeneratedMSBuildEditorConfig.editorconfig
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.AssemblyInfoInputs.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.AssemblyInfo.cs
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.CoreCompileInputs.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\refint\CLICON.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.pdb
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.genruntimeconfig.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\ref\CLICON.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Http.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Security.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.AssemblyReference.cache
+E:\USER\Documents\ESPE\Octavo Semestre\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.Up2Date
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.AssemblyReference.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.AssemblyInfoInputs.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.AssemblyInfo.cs
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.CoreCompileInputs.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\refint\CLICON.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.pdb
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.exe
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.deps.json
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.runtimeconfig.json
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\CLICON.pdb
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.Saml.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\Microsoft.IdentityModel.Xml.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Duplex.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Federation.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Http.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.NetFramingBase.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.NetTcp.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Primitives.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\System.ServiceModel.Security.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Http.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetFramingBase.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.NetTcp.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\cs\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\de\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\es\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\fr\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\it\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ja\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ko\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pl\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\ru\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\tr\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.csproj.Up2Date
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\CLICON.genruntimeconfig.cache
+E:\Arquitectura de Software\CONV_UNI\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\02. CLICON\CLICON\CLICON\obj\Debug\net8.0\ref\CLICON.dll

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\01. servidor\\ws_convuni_soapdotnet\\convuni\\ws_convuni_soapdotnet\\wc.edu.monster.prueba\\prueba01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\wc.edu.monster.prueba\\prueba01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|e:\\arquitectura de software\\conv_uni\\02. conv_uni_soap_dotnet_guarderas\\01. servidor\\ws_convuni_soapdotnet\\convuni\\ws_convuni_soapdotnet\\ec.edu.monster.servicios\\convuni.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\ec.edu.monster.servicios\\convuni.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\ws_convuni_soapdotnet\\ec.edu.monster.ws\\iconvuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\ec.edu.monster.ws\\iconvuni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\ws_convuni_soapdotnet\\ec.edu.monster.controlador\\convunicontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\ec.edu.monster.controlador\\convunicontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\ws_convuni_soapdotnet\\ec.edu.monster.modelo\\convunimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\ec.edu.monster.modelo\\convunimodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\ws_convuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C0A8B225-C2DB-4EBD-8C71-41127E9DEAEF}|WS_CONVUNI_SOAPDOTNET\\WS_CONVUNI_SOAPDOTNET.csproj|solutionrelative:ws_convuni_soapdotnet\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prueba01.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\wc.edu.monster.prueba\\Prueba01.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\wc.edu.monster.prueba\\Prueba01.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\wc.edu.monster.prueba\\Prueba01.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\wc.edu.monster.prueba\\Prueba01.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAApwBEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:55:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConvuniControlador.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.controlador\\ConvuniControlador.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.controlador\\ConvuniControlador.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.controlador\\ConvuniControlador.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.controlador\\ConvuniControlador.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wBgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:34:49.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConvuniModelo.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.modelo\\ConvuniModelo.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.modelo\\ConvuniModelo.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.modelo\\ConvuniModelo.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.modelo\\ConvuniModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T22:34:15.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-09T19:13:02.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CONVUNI.svc.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.servicios\\CONVUNI.svc.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.servicios\\CONVUNI.svc.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.servicios\\CONVUNI.svc.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.servicios\\CONVUNI.svc.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:34:38.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICONVUNI.cs",
+              "DocumentMoniker": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.ws\\ICONVUNI.cs",
+              "RelativeDocumentMoniker": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.ws\\ICONVUNI.cs",
+              "ToolTip": "E:\\Arquitectura de Software\\CONV_UNI\\02. CONV_UNI_SOAP_DOTNET_GUARDERAS\\01. SERVIDOR\\WS_CONVUNI_SOAPDOTNET\\CONVUNI\\WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.ws\\ICONVUNI.cs",
+              "RelativeToolTip": "WS_CONVUNI_SOAPDOTNET\\ec.edu.monster.ws\\ICONVUNI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:34:07.269Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
